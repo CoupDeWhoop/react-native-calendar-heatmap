@@ -24,5 +24,7 @@
     "react": ">= 16.x.x",
     "react-native": ">= 0.55.x",
     "react-native-svg": ">= 12.0.3"
+  },
+  "dependencies": {
   }
 }
